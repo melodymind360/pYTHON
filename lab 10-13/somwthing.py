@@ -12,5 +12,5 @@ age=int(currentyear)-int(yearofbirth)
 print(f"hello {name}, you are {age} years old and you like {hobby}")
 
 #f is for format and it will fill in the variables with what was asked
-# {} is for the variables to be filled in, must use the squigle bracket or it wont work, you also need add4
+# {} is for the variables to be filled in based on other variables and equations. must use the squigle bracket or it wont work, you also need add
 # qoutations marks after the f and before the last parentasis.
